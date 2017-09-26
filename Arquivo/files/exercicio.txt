@@ -1,0 +1,5 @@
+Filipe A;200000.0
+Augusto;10000.0
+Pedro;50000.0
+Monica;500.0
+Lurdes;2000.0
